@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Jumpers)(type KiCad)(uri "$(KIPRJMOD)/libs/footprints/Jumpers.pretty")(options "")(descr ""))
+  (lib (name optical)(type KiCad)(uri "$(KIPRJMOD)/libs/footprints/optical.pretty")(options "")(descr ""))
+)
